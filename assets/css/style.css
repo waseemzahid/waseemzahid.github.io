@@ -20287,9 +20287,9 @@ section.clients-testimonial-area {
 }
 .banner-main-demo-inner-content .absolute-designation .up {
   top: 65%;
-  left: 50%;
+  left: 9%;
   transform: translateX(-50%);
-  font-size: 110px;
+  font-size: 95px;
   z-index: 3;
 }
 @media only screen and (min-width: 1600px) and (max-width: 1919px) {
@@ -20321,9 +20321,9 @@ section.clients-testimonial-area {
 .banner-main-demo-inner-content .absolute-designation .down {
   z-index: -1;
   top: 36%;
-  left: 50%;
+  left: 26%;
   transform: translateX(-50%);
-  font-size: 100px;
+  font-size: 90px;
   -webkit-text-stroke-width: 1px;
   stroke-width: 1px;
   -webkit-text-stroke-color: #fff;
