@@ -11215,6 +11215,9 @@ header.header-full-width.header--sticky.sticky {
 {
   height: 80vh;
 }
+.gap-title{
+  color: transparent;
+}
 /*--------------------
     Main Menu Style  
 ----------------------*/
