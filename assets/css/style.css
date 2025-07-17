@@ -11216,7 +11216,8 @@ header.header-full-width.header--sticky.sticky {
   height: 80vh;
 }
 .gap-title{
-  color: transparent;
+  -webkit-text-stroke-color: transparent;
+  stroke: transparent;
 }
 /*--------------------
     Main Menu Style  
@@ -14856,7 +14857,7 @@ header.header-full-width.header--sticky.sticky {
 .banner-main-demo-inner-content .absolute-designation .down {
   z-index: -1;
   top: 36%;
-  left: 50%;
+  left: 53%;
   transform: translateX(-50%);
   font-size: 90px;
   -webkit-text-stroke-width: 1px;
@@ -20330,7 +20331,7 @@ section.clients-testimonial-area {
 .banner-main-demo-inner-content .absolute-designation .down {
   z-index: -1;
   top: 36%;
-  left: 50%;
+  left: 53%;
   transform: translateX(-50%);
   font-size: 90px;
   -webkit-text-stroke-width: 1px;
