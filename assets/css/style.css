@@ -14851,7 +14851,7 @@ header.header-full-width.header--sticky.sticky {
 }
 @media only screen and (max-width: 575px) {
   .banner-main-demo-inner-content .absolute-designation .up {
-    font-size: 36px;
+    font-size: 22px;
   }
   .main-demo
   {
@@ -14894,7 +14894,7 @@ header.header-full-width.header--sticky.sticky {
 }
 @media only screen and (max-width: 575px) {
   .banner-main-demo-inner-content .absolute-designation .down {
-    font-size: 36px;
+    font-size: 28px;
   }
 }
 
@@ -20329,7 +20329,7 @@ section.clients-testimonial-area {
 }
 @media only screen and (max-width: 575px) {
   .banner-main-demo-inner-content .absolute-designation .up {
-    font-size: 36px;
+    font-size: 22px;
   }
   .main-demo
   {
@@ -20372,7 +20372,7 @@ section.clients-testimonial-area {
 }
 @media only screen and (max-width: 575px) {
   .banner-main-demo-inner-content .absolute-designation .down {
-    font-size: 36px;
+    font-size: 28px;
   }
 }
 
