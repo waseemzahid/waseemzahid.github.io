@@ -14815,7 +14815,7 @@ header.header-full-width.header--sticky.sticky {
 }
 .banner-main-demo-inner-content .absolute-designation .up {
   top: 65%;
-  left: 9%;
+  left: 49%;
   transform: translateX(-50%);
   font-size: 95px;
   z-index: 3;
@@ -14858,6 +14858,7 @@ header.header-full-width.header--sticky.sticky {
   -webkit-text-stroke-color: #fff;
   stroke: #fff;
   -webkit-text-fill-color: transparent;
+  width: 100%;
 }
 @media only screen and (min-width: 1600px) and (max-width: 1919px) {
   .banner-main-demo-inner-content .absolute-designation .down {
@@ -20288,7 +20289,7 @@ section.clients-testimonial-area {
 }
 .banner-main-demo-inner-content .absolute-designation .up {
   top: 65%;
-  left: 9%;
+  left: 49%;
   transform: translateX(-50%);
   font-size: 95px;
   z-index: 3;
@@ -20331,6 +20332,7 @@ section.clients-testimonial-area {
   -webkit-text-stroke-color: #fff;
   stroke: #fff;
   -webkit-text-fill-color: transparent;
+  width: 100%;
 }
 @media only screen and (min-width: 1600px) and (max-width: 1919px) {
   .banner-main-demo-inner-content .absolute-designation .down {
