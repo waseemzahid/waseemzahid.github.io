@@ -14853,6 +14853,10 @@ header.header-full-width.header--sticky.sticky {
   .banner-main-demo-inner-content .absolute-designation .up {
     font-size: 36px;
   }
+  .main-demo
+  {
+    height: 55vh;
+  }
 }
 .banner-main-demo-inner-content .absolute-designation .down {
   z-index: -1;
@@ -20326,6 +20330,10 @@ section.clients-testimonial-area {
 @media only screen and (max-width: 575px) {
   .banner-main-demo-inner-content .absolute-designation .up {
     font-size: 36px;
+  }
+  .main-demo
+  {
+    height: 55vh;
   }
 }
 .banner-main-demo-inner-content .absolute-designation .down {
