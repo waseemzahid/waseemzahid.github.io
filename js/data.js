@@ -37,7 +37,13 @@ const PROJECTS = [
   { name: "3S Advanced Shoppes", url: "http://3sadvancedshoppes.ca/", cat: CATS.WC, tech: ["WordPress", "WooCommerce"] }, // verified: WooCommerce
   // ---- Shopify ----
     { name: "Shop Kollekt", url: "https://www.shopkollekt.com/", cat: CATS.SH, tech: ["Shopify"] }, // verified: Shopify
-  { name: "Mtech Motorcycles", url: "https://www.mtechmotorcycles.com/", cat: CATS.SH, tech: ["Shopify"] },
+    { name: "Roseland Designs", url: "https://www.roselanddesigns.com/", cat: CATS.SH, tech: ["Shopify"] },
+{ name: "The Postpartum Edit", url: "https://www.thepostpartumedit.com/", cat: CATS.SH, tech: ["Shopify"] },
+{ name: "Supreme Bee Honey", url: "https://supremebeehoney.com/", cat: CATS.SH, tech: ["Shopify"] },
+{ name: "Massage in a Jar", url: "https://q5u0ds-hf.myshopify.com/", cat: CATS.SH, tech: ["Shopify"] },
+{ name: "Anza Life", url: "https://anzalife.store/", cat: CATS.SH, tech: ["Shopify"] },
+{ name: "Falaj", url: "https://falaj.store/", cat: CATS.SH, tech: ["Shopify"] },
+  { name: "Mtech Motorcycles", url: "https://www.mtechmotorcycles.com/", cat: CATS.WP, tech: ["WordPress"] },
   // ---- React / Next / MERN ----
   { name: "What The Truck", url: "https://www.whatthetruck.live/", cat: CATS.RX, tech: ["React", "Next.js"], featured: true, desc: "Modern React / Next.js web app for What The Truck, a live, real-time experience." },
   { name: "Tasq", url: "https://tasq.io/", cat: CATS.RX, tech: ["React", "Next.js"] }, // client-rendered app (React-type)
