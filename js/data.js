@@ -32,7 +32,7 @@ const PROJECTS = [
   { name: "NexGen Plumbing & Heating", url: "https://nexgenplumbingandheating.com/", cat: CATS.WP, tech: ["WordPress"] },
   { name: "The Acc Tax Co", url: "https://theacctaxco.com/", cat: CATS.WP, tech: ["WordPress"] },
     { name: "Sadiq Gelatin", url: "https://www.sadiqgelatin.com/", cat: CATS.WP, tech: ["WordPress"] },
-  { name: "Mehreen Qazafi", url: "http://mehreenqazafi.com/", cat: CATS.WP, tech: ["WordPress", "WooCommerce"] },
+  { name: "Mehreen Qazafi", url: "http://mehreenqazafi.com/", cat: CATS.WC, tech: ["WordPress", "WooCommerce"] },
   // ---- WooCommerce (best guess: please verify) ----
   { name: "3S Advanced Shoppes", url: "http://3sadvancedshoppes.ca/", cat: CATS.WC, tech: ["WordPress", "WooCommerce"] }, // verified: WooCommerce
   // ---- Shopify ----
